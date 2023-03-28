@@ -1,8 +1,8 @@
-<div class="container" style="backgroundcolor:black">
+<div style="background-color:black;">
 
 <h1 align="center">Hi 👋, I'm Chowdam Jaganath</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" />
+<img align="center" alt="Coding" width="600" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaganathc&label=Profile%20views&color=0e75b6&style=flat" alt="jaganathc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaganathc" alt="jaganathc" /></a> </p>
